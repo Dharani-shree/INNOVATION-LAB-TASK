@@ -1,8 +1,3 @@
-Question :Use var, let, const
-Output messages to console
-Modify variables and observe output
-
-code:
 
 var name = "shree";
 let age = 18;
