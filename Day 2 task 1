@@ -73,6 +73,3 @@ if (number > 0) {
 } else {
   console.log("Zero (Edge Case)");
 }
-
-This message contains confidential information and is intended only for the individual(s) addressed in the message. If you are not the named addressee, you should not disseminate, distribute, or copy this e-mail. If you are not the intended recipient, you are notified that disclosing, distributing, or copying this e-mail is strictly prohibited.
-
