@@ -7,7 +7,7 @@ console.log(Math.min(3, 5, 1));             // 1
 
 
 let name = "shri";
-console.log(name.toUpperCase());            // "CELINE"
-console.log(name.slice(0, 2));              // "cel"
+console.log(name.toUpperCase());            // "shri"
+console.log(name.slice(0, 2));              // "sh"
 console.log(name.includes("sh));          // true
-console.log(name.replace("hri, "hre"));    // "seline"
+console.log(name.replace("hri, "hre"));    // "shre"
